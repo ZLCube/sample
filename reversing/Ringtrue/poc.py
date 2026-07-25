@@ -1,3 +1,23 @@
+"""
+        \  |  /
+      -- ***** --      IT RINGS TRUE
+        /  |  \        The First Mark is yours.
+
+                          .-----.
+                        .'  ( )  '.
+                       /   .---.   \
+                      |   ( *  )   |
+                       \   '---'   /
+                        '.       .'
+                          '-...-'
+
+  vault-seal: OPEN    RESONANCE [##############################] 100%
+
+  +-- ash-vault - sealed vow ---------------------------------+
+  |  HTB{h3y_s1gn3t_1_4m_y0ur_k1ng}                         |
+  +-----------------------------------------------------------+
+
+"""
 from z3 import Int, Solver, If, sat
 
 L0_W = [
