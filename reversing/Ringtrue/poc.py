@@ -1,4 +1,10 @@
 """
+[+] First Mark:
+[83, 97, 108, 116, 67, 114, 119, 110]
+
+[+] Cchallenge input:
+83 97 108 116 67 114 119 110
+
         \  |  /
       -- ***** --      IT RINGS TRUE
         /  |  \        The First Mark is yours.
